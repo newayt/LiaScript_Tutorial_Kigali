@@ -333,8 +333,8 @@ From links to ! images --> ? audio --> !? video --> ?? anything else:
 
 > Task1: Embed the links below as audio content
 
-[singing birds](https://bigsoundbank.com/UPLOAD/mp3/1068.mp3)
-
+?[singing birds](https://bigsoundbank.com/UPLOAD/mp3/1068.mp3)
+<
 [soundcloud](https://soundcloud.com/glennmorrison/beethoven-moonlight-sonata)
 
 > Task2: Go to youtube and add some video content
